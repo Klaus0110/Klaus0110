@@ -9,7 +9,7 @@
 <ul>
   <li>👋 Hi, I’m @Klaus0110</li>
   <li>❤️ I love Programming in Python.</li>
-  <li>🌱 I’m currently learning Machine Learning using Python</li>
+  <li>🌱 I’m currently pursuing Master's degree in Computer Applications</li>
   <li>📫 How to reach me:</li>
 </ul>
   
