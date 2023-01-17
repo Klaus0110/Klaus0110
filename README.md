@@ -1,9 +1,7 @@
 <p align="center">
   <h1 align="center">Welcome to <a href="https://github.com/Klaus0110">Kushagra Chaudhary</a>'s Profile 👋</h1>
 </p>
-<p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;"/></a>
-</p>
+
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" style="width: 250px; height: 250px; object-fit: contain">
 <p>I am a Python Programmer.</p>
 <ul>
