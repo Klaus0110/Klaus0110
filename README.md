@@ -61,6 +61,5 @@
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Klaus0110&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Klaus0110" /></p>
 <br>
-<p></p>
 
 [![klaus0110's Holopin badges](https://holopin.me/klaus0110)](https://holopin.io/@klaus0110)   
