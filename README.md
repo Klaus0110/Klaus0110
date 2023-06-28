@@ -18,15 +18,15 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/klaus0110/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
+      alt="Klaus0110" height="30" width="40" /></a>
   <a href="https://www.instagram.com/kushagra_0110/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
+      alt="Klaus0110" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/klaus0110" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="adampithewan" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/klaus0110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="klaus0110" height="30" width="40" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/klaus0110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="klaus0110" height="30" width="40" /></a>
+      alt="Klaus0110" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/klaus0110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Klaus0110" height="30" width="40" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/klaus0110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Klaus0110" height="30" width="40" /></a>
 </p>
 
 <br>
